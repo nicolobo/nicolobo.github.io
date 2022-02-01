@@ -312,7 +312,6 @@ nav {
     list-style: none;
     list-style-image:none;
     font-size: 24px;
-    font-color: white;
     line-height:24px;
 
     li {
@@ -324,7 +323,8 @@ nav {
 
       &.tag-h1 {
         font-size: 1.2em;
-
+        font-color: white;
+        
         a {
           font-weight: bold;
           color: #333;
