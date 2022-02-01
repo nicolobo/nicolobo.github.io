@@ -324,14 +324,14 @@ nav {
 
       &.tag-h1 {
         font-size: 1.2em;
-        color: #dddc15;
+        
         a {
           font-weight: bold;
-          color: #44e220;
+          font-color: #44e220;
         }
 
         + .tag-h2 {
-
+        color: #dddc15;
         }
       }
 
