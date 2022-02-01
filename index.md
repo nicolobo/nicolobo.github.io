@@ -1,25 +1,35 @@
-## Welcome to my webpage!
+# Welcome to my webpage!
 
 I'm still assembling this page, so don't go berserk if most of it does not work properly!
 <!-- I'll try to keep this as updated as I can! -->
 
 You can find some of my info here (probably you're just looking for my CV or my contact, so I'll keep the gossip aside).
 
-### Short bio
+## Short bio
 
 My name is Nicolás Varela García, I'm currently a PhD Student in Economic History at Universidad Carlos III de Madrid (UC3M). 
 
-### Full CV
+## Full CV
 
-### Teaching
+## Teaching
 
-### Contact
+- TA
+  - The process of European Economic Integration (since 1945). Bachelor in Economics (bilingual). 
+- Tutoring
+  - Introductory Econometrics (linear regression analysis). Master in Economic Development and Growth.
+  - Econometrics I (time series). Master in Economic Development and Growth.
+
+## Contact
 
 Feel free to contact me at nicolas.varela@uc3m.es
 
-<!--
-You can use the [editor on GitHub](https://github.com/nicolobo/nicolobo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Also on [ORCID](https://orcid.org/0000-0002-9135-5338) and [LinkedIn](https://es.linkedin.com/in/nicol%C3%A1s-varela-86bbb940)
 
+![Visitor Count](https://profile-counter.glitch.me/{nicolobo}/count.svg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnicolob.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)     
+
+<!--
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
