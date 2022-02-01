@@ -25,6 +25,30 @@ Feel free to contact me at [nicolas.varela@uc3m.es](mailto:nicolas.varela@uc3m.e
 
 Also on [ORCID](https://orcid.org/0000-0002-9135-5338) and [LinkedIn](https://es.linkedin.com/in/nicol%C3%A1s-varela-86bbb940)
 
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='manavoza7'
+>
+  <a
+    class='LI-simple-link'
+    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
+</div>
+
+ <script
+  type='text/javascript'
+  src='https://platform.linkedin.com/badges/js/profile.js'
+  async
+  defer
+></script>
+
 ![Visitor Count](https://profile-counter.glitch.me/{nicolobo}/count.svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnicolob.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)     
