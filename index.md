@@ -21,7 +21,7 @@ My name is Nicolás Varela García, I'm currently a PhD Student in Economic Hist
 
 ## Contact
 
-Feel free to contact me at nicolas.varela@uc3m.es
+Feel free to contact me at [nicolas.varela@uc3m.es](mailto:nicolas.varela@uc3m.es)
 
 Also on [ORCID](https://orcid.org/0000-0002-9135-5338) and [LinkedIn](https://es.linkedin.com/in/nicol%C3%A1s-varela-86bbb940)
 
