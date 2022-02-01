@@ -5,11 +5,16 @@ I'm still assembling this page, so please don't go berserk if most of it does no
 You can find some of my info here (probably you're just looking for my CV or my contact, so I'll keep the gossip aside).
 
 <hr />
+
 ## Short bio
 
 My name is Nicolás Varela García, I'm currently a PhD Student in Economic History and predoctoral fellow at Universidad Carlos III de Madrid (UC3M), where I assist in the teaching of several courses. Previously I've been a Research Assistant at the project _Desarrollo de los mercados financieros españoles en el siglo XX_. 
 
+<hr />
+
 ## Full CV
+
+<hr />
 
 ## Teaching
 
@@ -18,6 +23,8 @@ My name is Nicolás Varela García, I'm currently a PhD Student in Economic Hist
 - Tutoring
   - Introductory Econometrics (linear regression analysis). Master in Economic Development and Growth.
   - Econometrics I (time series). Master in Economic Development and Growth.
+
+<hr />
 
 ## Contact
 
