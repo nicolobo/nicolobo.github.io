@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm still assembling this page, so don't go berserk if most of it does not work properly!
+I'm still assembling this page, so please don't go berserk if most of it does not work properly!
 <!-- I'll try to keep this as updated as I can! -->
 
 You can find some of my info here (probably you're just looking for my CV or my contact, so I'll keep the gossip aside).
