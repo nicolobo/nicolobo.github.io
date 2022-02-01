@@ -1,11 +1,5 @@
 ## Welcome to my webpage!
 
-You can use the [editor on GitHub](https://github.com/nicolobo/nicolobo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
 I'll try to keep this as updated as I can!
 
 You can find some of my info here (probably you're just looking for my CV or my contact, so I'll make those easy to see).
@@ -23,6 +17,11 @@ My name is Nicolás Varela García, I'm currently a PhD Student in Economic Hist
 Feel free to contact me at nicolas.varela@uc3m.es
 
 <!--
+You can use the [editor on GitHub](https://github.com/nicolobo/nicolobo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
