@@ -1,4 +1,4 @@
-# Welcome to my webpage!
+# Welcome!
 
 I'm still assembling this page, so don't go berserk if most of it does not work properly!
 <!-- I'll try to keep this as updated as I can! -->
