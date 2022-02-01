@@ -31,6 +31,8 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  font-color: white;
+  background: black;
 }
 
 h2 {
@@ -323,8 +325,6 @@ nav {
 
       &.tag-h1 {
         font-size: 1.2em;
-        font-color: white;
-        background: black;
         
         a {
           font-weight: bold;
