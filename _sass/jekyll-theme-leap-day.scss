@@ -304,15 +304,15 @@ small {
 nav {
   width: 230px;
   position: fixed;
-  top: 200px;
+  top: 240px;
   left:50%;
-  margin-top:20px;
   margin-left:-580px;
   text-align: right;
   background-color: #ffffff;
 
 
   ul {
+    margin-top:20px;
     list-style: none;
     list-style-image:none;
     font-size: 24px;
