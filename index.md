@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Nicolás Varela García, I'm currently a PhD Student in Economic History and predoctoral fellow at Universidad Carlos III de Madrid (UC3M), where I assist in the teaching of several courses. Previously I've been a Research Assistant at the project _Desarrollo de los mercados financieros españoles en el siglo XX_. 
+My name is Nicolás Varela García, I'm currently a Predoctoral Fellow at Universidad Carlos III de Madrid (UC3M), where I assist in the teaching of several courses and I'm a student in the PhD program in Economic History. Previously I've been a Research Assistant at the project _Desarrollo de los mercados financieros españoles en el siglo XX_. 
 
 You can find some of my info here (probably you're just looking for my CV or my contact, so I'll keep the gossip aside).
 
@@ -13,18 +13,19 @@ You can find some of my info here (probably you're just looking for my CV or my 
 ## Teaching
 
 - TA
-  - The process of European Economic Integration (since 1945). Bachelor in Economics (bilingual). 
+  - The Process of European Economic Integration. Bachelor in Economics (English).
+  - El Proceso de la Integración Económica Europea. Grado en Economía (Spanish).
 - Tutoring
-  - Introductory Econometrics (linear regression analysis). Master in Economic Development and Growth.
-  - Econometrics I (time series). Master in Economic Development and Growth.
+  - Introductory Econometrics (linear regression analysis). Master in Economic Development and Growth (MEDEG).
+  - Econometrics I (time series). Master in Economic Development and Growth (MEDEG).
 
 <hr />
 
 ## Contact
 
-Feel free to contact me at [nicolas.varela@uc3m.es](mailto:nicolas.varela@uc3m.es)
+Feel free to contact me at [nicolas.varela@uc3m.es](mailto:nicolas.varela@uc3m.es).
 
-Also on [ORCID](https://orcid.org/0000-0002-9135-5338) and [LinkedIn](https://es.linkedin.com/in/nicol%C3%A1s-varela-86bbb940)
+Also on [ORCID](https://orcid.org/0000-0002-9135-5338) and [LinkedIn](https://es.linkedin.com/in/nicol%C3%A1s-varela-86bbb940).
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{nicolobo}/count.svg) -->
 
