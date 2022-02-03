@@ -8,8 +8,9 @@ You can find some of my info here (probably you're just looking for my CV or my 
 
 ## Full CV
 
-<hr />
 <a href="pdfs/CV Nico - February 2022.pdf" class="image fit"><img src="assets/images/Nolimetangere.png" alt=""></a>
+
+<hr />
 
 ## Teaching
 
