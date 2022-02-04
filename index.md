@@ -37,16 +37,7 @@ Also on [ORCID](https://orcid.org/0000-0002-9135-5338) and [LinkedIn](https://es
 
 ## Languages
 You may also find this page in
-- [español](https://nicolobo.github.io/nicolobo_es.github.io/).
+- [Español](https://nicolobo.github.io/nicolobo_es.github.io/).
 - 
 
-
-<!--
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
--->
 
