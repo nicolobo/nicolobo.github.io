@@ -38,6 +38,5 @@ Also on [ORCID](https://orcid.org/0000-0002-9135-5338) and [LinkedIn](https://es
 ## Languages
 You may also find this page in
 - [Español](https://nicolobo.github.io/es/).
-- 
 
 
