@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en-US">
-  <head>
+<head>
 <style>
 
 body {
@@ -159,6 +159,92 @@ nav ul li{
     // position:relative;
     // right:-12px;
 	}
+
+@media print, screen and (max-width: 1000px) {
+  body {
+    word-wrap:break-word;
+  }
+
+	nav {
+		height: 170px;
+		width: 150px;
+		position: fixed;
+		top: 160px;
+		left: 50%;
+		margin-left: -485px;
+		text-align: right;
+		background-color: #ffffff;
+	}
+
+  header {
+    padding:20px 20px;
+    margin: 0;
+
+    h1 {
+      font-size: 32px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+
+    p { display: none;}
+  }
+
+  section {
+    margin-top: 130px;
+    margin-bottom: 0px;
+    width: 740px;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+  }
+
+  header{
+    position: relative;
+    padding: 5px 0px;
+    min-height: 0px;
+}
+    header h1 {
+      font-size: 24px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  
+  section {
+    margin-top: 5px;
+  }
+
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
+
+@media print, screen and (max-height: 480px) {
+  nav {
+    display: none;
+  }
+  
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
 
 </style>
    
