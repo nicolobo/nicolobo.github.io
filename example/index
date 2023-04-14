@@ -1,86 +1,99 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>My Personal Webpage</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-		}
-		header {
-			background-color: #333;
-			color: #fff;
-			padding: 20px;
-			text-align: center;
-		}
-		nav {
-			background-color: #eee;
-			float: left;
-			height: 100%;
-			width: 200px;
-		}
-		nav ul {
-			list-style: none;
-			padding: 0;
-			margin: 0;
-		}
-		nav li {
-			padding: 10px;
-			border-bottom: 1px solid #ccc;
-		}
-		nav li a {
-			color: #333;
-			text-decoration: none;
-		}
-		nav li a:hover {
-			color: #fff;
-			background-color: #333;
-		}
-		section {
-			margin-left: 220px;
-			padding: 20px;
-		}
-		h1 {
-			font-size: 36px;
-			margin-bottom: 20px;
-		}
-		p {
-			font-size: 18px;
-			line-height: 1.5;
-			margin-bottom: 20px;
-		}
-	</style>
-</head>
-<body>
-	<header>
-		<h1>My Personal Webpage</h1>
-	</header>
-	<nav>
-		<ul>
-			<li><a href="#welcome">Welcome</a></li>
-			<li><a href="#cv">Full CV</a></li>
-			<li><a href="#teaching">Teaching</a></li>
-			<li><a href="#contact">Contact</a></li>
-			<li><a href="#languages">Languages</a></li>
-		</ul>
-	</nav>
-	<section id="welcome">
-		<h1>Welcome</h1>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae arcu ullamcorper, pulvinar libero quis, semper sapien. Duis bibendum mi in nunc venenatis, ac varius felis tristique.</p>
-	</section>
-	<section id="cv">
-		<h1>Full CV</h1>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae arcu ullamcorper, pulvinar libero quis, semper sapien. Duis bibendum mi in nunc venenatis, ac varius felis tristique.</p>
-	</section>
-	<section id="teaching">
-		<h1>Teaching</h1>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae arcu ullamcorper, pulvinar libero quis, semper sapien. Duis bibendum mi in nunc venenatis, ac varius felis tristique.</p>
-	</section>
-	<section id="contact">
-		<h1>Contact</h1>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae arcu ullamcorper, pulvinar libero quis, semper sapien. Duis bibendum mi in nunc venenatis, ac varius felis tristique.</p>
-	</section>
-	<section id="languages">
-		<h1>Languages</h1>
-		<p>Lorem ipsum dolor sit amet
+  <head>
+    <meta charset="utf-8">
+    <title>My Personal Website</title>
+    <style>
+      /* Set background image */
+      body {
+        background-image: url('https://nicolobo.github.io/images/body-background.png');
+        background-size: cover;
+      }
+      
+      /* Add some padding and styling to the index */
+      #index {
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+      }
+      
+      /* Style the links in the index */
+      #index a {
+        display: block;
+        margin-bottom: 10px;
+        color: #333;
+        font-weight: bold;
+        text-decoration: none;
+        transition: all 0.2s ease-in-out;
+      }
+      
+      #index a:hover {
+        color: #555;
+      }
+      
+      /* Add some padding to the main section */
+      #main {
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        margin-left: 20px;
+      }
+      
+      /* Style the header */
+      h1 {
+        font-size: 36px;
+        margin-top: 0;
+        margin-bottom: 20px;
+      }
+      
+      /* Style the section titles */
+      h2 {
+        font-size: 28px;
+        margin-top: 0;
+        margin-bottom: 10px;
+      }
+      
+      /* Style the text in the sections */
+      p {
+        font-size: 18px;
+        line-height: 1.5;
+        margin-top: 0;
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="index">
+      <a href="#welcome">Welcome</a>
+      <a href="#cv">Full CV</a>
+      <a href="#teaching">Teaching</a>
+      <a href="#contact">Contact</a>
+      <a href="#languages">Languages</a>
+    </div>
+    <div id="main">
+      <h1>My Personal Website</h1>
+      <section id="welcome">
+        <h2>Welcome</h2>
+        <p>BLABLABLA</p>
+      </section>
+      <section id="cv">
+        <h2>Full CV</h2>
+        <p>BLABLABLA</p>
+      </section>
+      <section id="teaching">
+        <h2>Teaching</h2>
+        <p>BLABLABLA</p>
+      </section>
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>BLABLABLA</p>
+      </section>
+      <section id="languages">
+        <h2>Languages</h2>
+        <p>BLABLABLA</p>
+      </section>
+    </div>
+  </body>
+</html>
