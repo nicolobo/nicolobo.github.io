@@ -21,7 +21,7 @@ layout: default
 - **Well-being Measurement, Inequality and Poverty** (2021-2022)
   - MEDEG.
 
-- **Introdcutory Econometrics** - Linear regression analysis (2021-2022)
+- **Introductory Econometrics** - Linear regression analysis (2021-2022)
   - MEDEG.
 
 
