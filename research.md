@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Publications
-
-### Peer-reviewed articles
-
+## Research
 
 ### Book chapters
 
 
+### Book reviews
 
-### Working papers
+
+%### Peer-reviewed articles
+%### Working papers
 
