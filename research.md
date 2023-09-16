@@ -10,6 +10,6 @@ layout: default
 ### Book reviews
 
 
-%### Peer-reviewed articles
-%### Working papers
+<!--### Peer-reviewed articles-->
+<!--### Working papers-->
 
