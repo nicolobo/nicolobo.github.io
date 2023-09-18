@@ -4,13 +4,11 @@
 @import "{{ site.theme }}";
 
 body {
+  background-color: #ddc1e8;
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#333333;
   font-weight:400;  
-  background: url("https://nicolobo.github.io/images/body-background.png") #eae6d1;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
