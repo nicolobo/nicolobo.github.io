@@ -15,7 +15,7 @@ layout: default
   
 ### Graduate
 
-- **Econometrics I** - Time series (2021-2023)
+- **Econometrics I** - Time series (2021-2024)
   - Master in Economic Development and Growth (MEDEG), tutoring.
 
 - **Well-being Measurement, Inequality and Poverty** (2021-2022)
