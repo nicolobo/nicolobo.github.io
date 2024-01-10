@@ -5,7 +5,7 @@ layout: default
 ## Research
 
 ### Book chapters
-- "Central banks" in Hsu, Sara (Ed.). <a href="https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-financial-crises-9781800377356.html"target="_blank"><i>Elgar Encyclopedia of Financial Crises</i></a> . Edward Elgar Publishing, 2023.
+- "Central banks" in Hsu, Sara (Ed.). <a href="https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-financial-crises-9781800377356.html" target="_blank"><i>Elgar Encyclopedia of Financial Crises</i></a> . Edward Elgar Publishing, 2023.
 - "Inflation" in Hsu, Sara (Ed.). *Elgar Encyclopedia of Financial Crises*. Edward Elgar Publishing, 2023.
 
 ### Book reviews
