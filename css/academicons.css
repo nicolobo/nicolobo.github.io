@@ -86,6 +86,12 @@
 .ai-ciencia-vitae-square:before {
   content: "\e913";
 }
+.ai-closed-access:before {
+  content: "\e942";
+}
+.ai-closed-access-square:before {
+  content: "\e943";
+}
 .ai-conversation:before {
   content: "\e94c";
 }
