@@ -17,7 +17,7 @@ layout: default
   - Bachelor in Economics
 - **El Proceso de la Integración Económica Europea** (2021-2022)
   - Grado en Economía
-  - 
+ 
 ### Tutor (graduate)
 
 - **Econometrics I** - Time series (2021-2024)
