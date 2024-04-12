@@ -36,4 +36,4 @@ For without music, life would be an error.
   </tr>
 </table>
 
-You may try to spot all my many looks though the years ;)
+I bet you a beer you can't spot all my many looks though the years ;)
