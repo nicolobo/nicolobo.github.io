@@ -4,7 +4,8 @@ layout: default
 
 ## Music
 
-For without music, life would be an error.
+For living only one life ain't enough, and since you're already here, you may enjoy some of my perfomances while you try to spot all my many looks though the years. I bet you a beer you can't find them all ;)
+
 
 <!-- <iframe width="420" height="345" src="https://www.youtube.com/embed/DeehD4Y5tfA"> -->
 <!-- </iframe> -->
@@ -35,5 +36,3 @@ For without music, life would be an error.
     </td>
   </tr>
 </table>
-
-I bet you a beer you can't spot all my many looks though the years ;)
