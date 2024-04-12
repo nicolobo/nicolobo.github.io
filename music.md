@@ -11,12 +11,12 @@ For without music, life would be an error.
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <h2>Buxtehude - Membra Jesu Nostri</h2>
       Concentus Lucensis & Concentus Angelorum. Chiesa di S. Pedro, Lugo (2023).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/gAg0haXkMlM"></iframe>
     </td>
-    <td>
+    <td valign="top">
       <h2>Caxade & Banda de Música da Bandeira</h2>
       Festival Rio Loco, Toulouse (2016). 
       <iframe width="252" height="207" src="https://www.youtube.com/embed/CdEIERNBad0"></iframe>
