@@ -216,6 +216,13 @@ pdf {
    aspect-ratio: 4 / 3;
     }
 
+pdf,
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
 
 @media print, screen and (max-width: 960px) {
 
