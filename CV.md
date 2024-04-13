@@ -10,5 +10,5 @@ You may find the full version of my CV here.
             data=
 "pdfs/CV%20Nico.pdf"
             width="800"
-            height="700">
+            height="600">
 </object>
