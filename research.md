@@ -15,8 +15,4 @@ layout: default
 <!--### Peer-reviewed articles-->
 <!--### Working papers-->
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<div style="height: 100px;"></div>
