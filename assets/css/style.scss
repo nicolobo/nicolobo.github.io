@@ -13,6 +13,13 @@ body {
   font-weight:400;  
 }
 
+.container {
+  background-color: #d5e9aa; /* Fondo verde continuo */
+  background-size: cover; /* Cubrir el área del contenedor con la imagen */
+  padding: 0; /* Eliminar el relleno predeterminado del contenedor */
+  margin: 0; /* Eliminar el margen predeterminado del contenedor */
+}
+
 header, section {
   background-color: #d5e9aa;
   margin: 0;
