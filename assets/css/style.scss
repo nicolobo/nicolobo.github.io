@@ -4,13 +4,24 @@
 @import "{{ site.theme }}";
 
 body {
- background-color: #d5e9aa;
+  <!-- background-color: #d5e9aa; -->
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#333333;
   font-weight:400;  
 }
 
+.wrapper, footer {
+  background-image: url(https://github.com/nicolobo/nicolobo.github.io/blob/bc7278872e12f51f9eb7397bb9abe4dcc00a4cec/images/body-background.png);
+  background-repeat: repeat; 
+  background-size: auto;
+}
+
+header, section {
+  background-color: #d5e9aa;
+  margin: 0;
+  padding: 0;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#212121;
