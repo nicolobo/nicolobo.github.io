@@ -9,6 +9,12 @@
   background-size: cover;
 }
 
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 body {
   background-image: url("../../images/body-background.png");
   background-size: cover;
