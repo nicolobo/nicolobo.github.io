@@ -9,6 +9,6 @@ You may find the full version of my CV here.
 <object class="pdf" 
             data=
 "pdfs/CV%20Nico.pdf"
-            width="800"
+            width="550"
             height="600">
 </object>
