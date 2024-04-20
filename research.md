@@ -15,5 +15,5 @@ layout: default
 <!--### Peer-reviewed articles-->
 <!--### Working papers-->
 
-<div style="height: 400px;"></div>
+<div style="height: 300px;"></div>
 <!-- La línea anterior se puede modificar, sólo está para añadir espacio verde hasta el final. -->
