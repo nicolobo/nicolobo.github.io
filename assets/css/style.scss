@@ -28,8 +28,9 @@ body {
 }
 
 header, section {
-  margin: 40px 20px 40px;
+  margin: 40px 40px 40px;
   padding: 0;
+  position: absolute; //previene que el header se quede fio y se salga del wrapper.
 }
 
 h1, h2, h3, h4, h5, h6 {
