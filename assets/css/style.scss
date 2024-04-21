@@ -32,6 +32,11 @@ header, section {
   padding: 0;
 }
 
+header {
+  position: relative; //Previene que el header se quede fijo y se salga del wrapper (default = static).
+}
+  
+
 h1, h2, h3, h4, h5, h6 {
   color:#212121;
   margin:0 0 20px;
