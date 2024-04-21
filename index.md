@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<img src="images/photo.jpg" alt="Nicolás Varela" style="width: 45%; height: 45%;" />
+
+<a href="https://nicolobo.github.io/music.html">
+    <img src="images/Nolimetangere.png" alt="Noli me tangere" style="width: 20%; height: 20%; margin-left: 50px;" />
+</a>
+
+<br>
+
+<h2></b>Welcome!</h2>
+
+My name is Nicolás Varela García, I'm currently a Predoctoral Fellow at the <a href="https://www.uc3m.es/social-sciences-department/home">Universidad Carlos III de Madrid</a>, where I lecture and I'm a candidate in the PhD program in Economic History.
+
+<br>
+<br>
+
+My <a href="https://nicolobo.github.io/research.html">research</a> focuses on the political economy of Spanish monetary policy during the Francoist dictatorship. In my thesis I intend to: 
+<ol>
+    <li> Map the power distribution among de iure and de facto policymakers by making use of the narrative analysis of inside documentation.</li>
+    <li> Assess the performance of monetary policy instruments regarding coetaneous policy targets.</li>
+    <li> Evaluate the differential benefits experienced by the banking system derived from their unequal connections to the regime.</li>
+</ol>
+<br>
+<br>
