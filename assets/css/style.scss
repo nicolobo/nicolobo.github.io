@@ -33,7 +33,10 @@ header, section {
 }
 
 header {
-  position: relative; //Previene que el header se quede fijo y se salga del wrapper (default = static).
+  width:270px;
+  float:left;
+  position:relative;  //Previene que el header se quede fijo y se salga del wrapper (default = static).
+  -webkit-font-smoothing:subpixel-antialiased;
 }
   
 
@@ -137,13 +140,6 @@ th {
 
 img {
   max-width:100%;
-}
-
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 header ul {
