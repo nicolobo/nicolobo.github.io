@@ -4,9 +4,11 @@
 @import "{{ site.theme }}";
 
 .wrapper {
+  width: 1000px;
   margin: 0 auto;
   background-color: #d5e9aa;
   background-size: cover;
+  position: relative;
 }
 
 .clearfix::after {
