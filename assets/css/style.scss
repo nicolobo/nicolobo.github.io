@@ -27,18 +27,22 @@ body {
   font-weight:400;  
 }
 
-header, section {
-  margin: 40px 40px 40px;
-  padding: 0;
-}
-
 header {
   width:270px;
   float:left;
   position:relative;  //Previene que el header se quede fijo y se salga del wrapper (default = static).
+  margin: 40px 40px 40px 60px;
+  padding: 0;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-  
+
+section {
+  width:550px;
+  float:right;
+  margin: 40px 40px 40px;
+  padding: 0;
+  padding-bottom:50px;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#212121;
@@ -200,12 +204,6 @@ header ul a strong {
   font-size:14px;
   display:block;
   color:#222;
-}
-
-section {
-  width:550px;
-  float:right;
-  padding-bottom:50px;
 }
 
 small {
