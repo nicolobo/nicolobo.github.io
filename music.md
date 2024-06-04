@@ -24,12 +24,12 @@ For living only one life ain't enough, and since you've already violated the <i>
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="bottom">
       <h2>Caxade & Banda de Música da Bandeira</h2>
       Festival Rio Loco, Toulouse (2016). 
       <iframe width="252" height="207" src="https://www.youtube.com/embed/CdEIERNBad0"></iframe>
     </td>
-    <td>
+    <td valign="bottom">
       <h2>Maslanka - Symphony Nº 4</h2>
       Banda de Lalín. World Music Contest, Kerkrade (2013).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/DeehD4Y5tfA"></iframe>
