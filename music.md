@@ -4,7 +4,7 @@ layout: default
 
 ## Music
 
-For living only one life ain't enough, and since you've already violated the <i>Noli me tangere</i>, you may as well enjoy some of my perfomances while you try to spot all my many looks though the years. A beer says you can't find them all ;)
+For living only one life ain't enough, you may as well enjoy some of my perfomances while you try to spot all my many looks though the years. A beer says you can't find them all ;)
 
 
 <!-- <iframe width="420" height="345" src="https://www.youtube.com/embed/DeehD4Y5tfA"> -->
@@ -45,3 +45,5 @@ For living only one life ain't enough, and since you've already violated the <i>
     </td>
   </tr>
 </table>
+
+More clips on my <a href="https://www.instagram.com/nicolobo12/">Instagram</a>.
