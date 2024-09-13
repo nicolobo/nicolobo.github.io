@@ -15,7 +15,7 @@ For living only one life ain't enough, you may as well enjoy some of my perfoman
     <td valign="bottom">
       <h2>Also sprach Zarathustra</h2>
       Orquesta Joven de la Sinfónica de Galicia. Palacio de la Ópera, A Coruña (2024).
-      <iframe width="252" height="207" src="https://www.youtube.com/embed/7xd_2EIMJg8?si=X8Pa3HajJFRhnioZ"></iframe>
+      <iframe width="252" height="207" src="https://youtu.be/wvkC3WVDfTA?si=8qvbijFu6t8jL-os"></iframe>
     </td>
     <td valign="bottom">
       <h2>Il merito delle donne</h2>
