@@ -231,9 +231,9 @@ pdf {
     }
 
 #clustrmaps-container {
-  width: 50%; /* Responsive width */
+  width: 35%; /* Responsive width */
   height: auto; /* Maintain aspect ratio */
-  max-width: 300px; /* Cap maximum size */
+  max-width: 200px; /* Cap maximum size */
 }
 
 @media print, screen and (max-width: 960px) {
