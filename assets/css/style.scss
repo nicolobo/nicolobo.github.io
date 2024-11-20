@@ -230,6 +230,12 @@ pdf {
    aspect-ratio: 4 / 3;
     }
 
+#clustrmaps-container {
+  width: 50%; /* Responsive width */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 300px; /* Cap maximum size */
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
