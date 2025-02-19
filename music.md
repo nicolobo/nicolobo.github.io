@@ -18,33 +18,33 @@ For living only one life ain't enough, you may as well enjoy some of my perfoman
       <iframe width="252" height="207" src="https://www.youtube.com/embed/wvkC3WVDfTA?si=8qvbijFu6t8jL-os"></iframe>
     </td>
     <td valign="bottom">
+      <h2>R. Strauss - Vier letzten Lieder</h2>
+      Orquesta Joven de la Sinfónica de Galicia. Palacio de la Ópera, A Coruña (2024).
+      <iframe width="252" height="207" src="https://www.youtube.com/embed/l5rINPSWqDI?si=NCRy_0JujGLlXUmB"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td valign="bottom">
       <h2>Il merito delle donne</h2>
       Son de Corda & amici. Capela de Santa María, Lugo (2024).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/7xd_2EIMJg8?si=X8Pa3HajJFRhnioZ"></iframe>
     </td>
-  </tr>
-  <tr>
     <td valign="bottom">
       <h2>Buxtehude - Membra Jesu Nostri</h2>
       Concentus Lucensis & Concentus Angelorum. Chiesa di S. Pedro, Lugo (2023).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/gAg0haXkMlM"></iframe>
     </td>
+  </tr>
+  <tr>
     <td valign="bottom">
       <h2>Caxade & Banda de Música da Bandeira</h2>
       Festival Rio Loco, Toulouse (2016). 
       <iframe width="252" height="207" src="https://www.youtube.com/embed/CdEIERNBad0"></iframe>
     </td>
-  </tr>
-  <tr>
     <td valign="bottom">
       <h2>Maslanka - Symphony Nº 4</h2>
       Banda de Lalín. World Music Contest, Kerkrade (2013).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/DeehD4Y5tfA"></iframe>
-    </td>
-    <td valign="bottom">
-      <h2>Suñer Oriola - Venus de las Luces</h2>
-      Banda de Lalín. Certamen Internacional de Bandes Vila d'Altea (2010).
-      <iframe width="252" height="207" src="https://www.youtube.com/embed/FrJashZ09Go"></iframe>
     </td>
     <td>
     </td>
