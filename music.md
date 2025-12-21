@@ -13,7 +13,7 @@ For living only one life ain't enough, you may as well enjoy some of my perfoman
 <table>
   <tr>
     <td valign="bottom">
-      <h2>Muffat & Чесноков</h2>
+      <h2>Muffat, <em>Toccata prima</em> & Чесноков, <em>Тебе поем</em></h2>
       Concerto do Proxecto Olladas 2025. Igrexa de Santa Eufemia, Ourense (2025).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/jnZMHKDnXxc?si=3lga1UG5r8xxDhHy&t=1669"></iframe>
     </td>
