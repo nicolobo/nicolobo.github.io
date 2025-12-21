@@ -13,9 +13,9 @@ For living only one life ain't enough, you may as well enjoy some of my perfoman
 <table>
   <tr>
     <td valign="bottom">
-      <h2>R. Strauss - Also sprach Zarathustra</h2>
-      Orquesta Joven de la Sinfónica de Galicia. Palacio de la Ópera, A Coruña (2024).
-      <iframe width="252" height="207" src="https://www.youtube.com/embed/wvkC3WVDfTA?si=8qvbijFu6t8jL-os"></iframe>
+      <h2>Muffat & Чесноков</h2>
+      Concerto do Proxecto Olladas 2025. Igrexa de Santa Eufemia, Ourense (2025).
+      <iframe width="252" height="207" src="https://youtu.be/jnZMHKDnXxc?si=3lga1UG5r8xxDhHy&t=1669"></iframe>
     </td>
     <td valign="bottom">
       <h2>R. Strauss - Vier letzten Lieder</h2>
