@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
+## IE University
 
-## Teaching (at UC3M)
+### Main lecturer
+
+- **International Trade and Finance** (2025-2026)
+  - Dual Degree in Economics & International Relations
+
+## UC3M
 
 6 Teaching Excellent Acknowledgments.
 
