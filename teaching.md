@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Teaching
+
 ## IE University
 
 ### Main lecturer
