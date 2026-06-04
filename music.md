@@ -13,43 +13,46 @@ For living only one life ain't enough, you may as well enjoy some of my perfoman
 <table>
   <tr>
     <td valign="bottom">
+      <h2>Fauré - <em>Requiem</em></h2>
+      Concentus Lucensis. Chiesa di S. Pedro, Lugo (2026).
+      <iframe width="252" height="207" src="https://www.youtube.com/embed/mnRMs78sJSQ?si=UyoGMzLRxFf8YmKO"></iframe>
+    </td>
+    <td valign="bottom">
       <h2>Muffat - <em>Toccata prima</em> & Чесноков - <em>Тебе поем</em></h2>
       Concerto do Proxecto Olladas. Igrexa de Santa Eufemia, Ourense (2025).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/jnZMHKDnXxc?si=3lga1UG5r8xxDhHy&t=1669"></iframe>
     </td>
+  </tr>
+  <tr>
     <td valign="bottom">
       <h2>R. Strauss - <em>Vier letzten Lieder</em></h2>
       Orquesta Joven de la Sinfónica de Galicia. Palacio de la Ópera, A Coruña (2024).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/l5rINPSWqDI?si=NCRy_0JujGLlXUmB"></iframe>
     </td>
-  </tr>
-  <tr>
     <td valign="bottom">
       <h2>Il merito delle donne</h2>
       Son de Corda & amici. Capela de Santa María, Lugo (2024).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/7xd_2EIMJg8?si=X8Pa3HajJFRhnioZ"></iframe>
     </td>
-    <td valign="bottom">
+  </tr>
+  <tr>
+   <td valign="bottom">
       <h2>Buxtehude - <em>Membra Jesu Nostri</em></h2>
       Concentus Lucensis & Concentus Angelorum. Chiesa di S. Pedro, Lugo (2023).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/gAg0haXkMlM"></iframe>
     </td>
-  </tr>
-  <tr>
     <td valign="bottom">
       <h2>Caxade & Banda de Música da Bandeira</h2>
       Festival Rio Loco, Toulouse (2016). 
       <iframe width="252" height="207" src="https://www.youtube.com/embed/CdEIERNBad0"></iframe>
     </td>
-    <td valign="bottom">
+  </tr>
+  <tr>
+     <td valign="bottom">
       <h2>Maslanka - <em>Symphony Nº 4</em></h2>
       Banda de Lalín. World Music Contest, Kerkrade (2013).
       <iframe width="252" height="207" src="https://www.youtube.com/embed/DeehD4Y5tfA"></iframe>
     </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
     <td valign="bottom">
        <h2>Suñer Oriola - <em>Venus de las Luces</em></h2>
       Banda de Lalín. Certamen Internacional de Bandes Vila d'Altea (2010).
